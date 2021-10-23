@@ -1,0 +1,32 @@
+body{
+    font-family: 'Gemunu Libre',cursive;
+    background: beige;
+}
+.header_div{
+    background:cornflowerblue;
+    color:crimson;
+}
+.header_div p{
+    font-family: inherit;
+    color:lightcoral;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'roboto',sans-serif;
+    color:lightseagreen;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    color:lightslategray;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(150,150,150);
+}
